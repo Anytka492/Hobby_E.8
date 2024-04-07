@@ -1,0 +1,59 @@
+#Flowers {background-color: red;}
+#Quotes {background-color: green;}
+#Images {background-color: blue;}
+#Contacts {background-color: orange;}
+
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+
+.tablink:hover {
+    background-color: #777;
+}
+
+
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+
+.right {
+  float: right;
+  margin: 0 1em 1em 0;
+}
+
+.contacts a{
+    text-decoration: none;
+    padding: 0px 5px;
+}
+
+.contacts a li{
+    font-size: 20px;
+    color: #453939;
+    padding: 10px;
+    margin-left: 450px;
+    width: 100px;
+    text-align:center;
+    list-style-type: none;
+}
+
+.contacts li:hover{
+    color: #ffe;
+    background-color: gray;
+}
